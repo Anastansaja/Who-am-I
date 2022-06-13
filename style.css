@@ -1,0 +1,48 @@
+.jumbotron {
+  padding: 6rem;
+  background-image: url('gambar/gg.gif');
+  background-position: cover;
+  filter: brightness(100%);
+  background-size: cover;
+}
+
+.jumbotron h1{
+  font-weight: normal;
+		color: white;
+		text-shadow: 0 0 10px #fff, 
+					 0 0 20px #fff, 
+					 0 0 30px #fff, 
+					 0 0 40px #ff00de, 
+					 0 0 70px #ff00de, 
+					 0 0 80px #ff00de, 
+					 0 0 100px #ff00de, 
+					 0 0 150px #ff00de;
+}
+.card {
+  border: 10px double black;
+  background-color: secondary;
+}
+
+.clearfix {
+  border: 8px double white;
+  background-color: #212121;
+  color: white;
+}
+
+body {
+  background-color: #212121;
+ 
+}
+section {
+  padding-top: 4rem;
+}
+
+musik {
+  background-color: black;
+  background-color: black;
+}
+
+footer {
+  background-color: #000000;
+}
+
